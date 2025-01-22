@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MoreStudio Next.js example
+
+## How to use
+
+```bash
+npx create-next-app --example https://github.com/morestudio/nextjs-example
+```
+
+```bash
+yarn create next-app --example https://github.com/morestudio/nextjs-example
+```
+
+```bash
+pnpm create next-app --example https://github.com/morestudio/nextjs-example
+```
 
 ## Getting Started
 
